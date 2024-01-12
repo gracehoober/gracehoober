@@ -1,9 +1,8 @@
 # Hi, I'm Grace :wave:
 
---------------------
-:woman_technologist: :woman_health_worker: I am a software engineer with a background in ER nursing.
-🌍  I'm based in Seattle, WA
-I love :lotus_position: :coffee: :snow: :runner:
+* :woman_technologist: :woman_health_worker: I am a software engineer with a background in ER nursing.
+* I'm based in Seattle, WA 🌍 
+* I love :lotus_position: :coffee::runner:
 
 --------------------
 ## Social
