@@ -1,11 +1,15 @@
 # Hi, I'm Grace :wave:
-* :woman_technologist: :woman_health_worker: I am a software engineer with a background in ER nursing.
-* 🌍  I'm based in Seattle, WA
-
-
-* ✉️  You can contact me on <span><a href="https://www.linkedin.com/in/grace-hoober/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></span>
 
 --------------------
+:woman_technologist: :woman_health_worker: I am a software engineer with a background in ER nursing.
+🌍  I'm based in Seattle, WA
+I love :lotus_position: :coffee: :snow: :runner:
+
+--------------------
+## Social
+<p><a href="https://www.linkedin.com/in/grace-hoober/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+----------------------
 ## Skills
 
 <p align="left">
