@@ -1,8 +1,8 @@
 # Hi, I'm Grace :wave:
-
+* my pronouns are she/her
 * :woman_technologist: :woman_health_worker: I am a software engineer with a background in ER nursing.
 * I'm based in Seattle, WA 🌍 
-* I love :lotus_position: :coffee::runner:
+* I love :lotus_position: :coffee: :runner: :ramen: :books:
 
 --------------------
 ## Social
