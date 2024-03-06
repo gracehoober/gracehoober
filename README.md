@@ -2,7 +2,7 @@
 * :woman_technologist: :woman_health_worker: I am a software engineer with a background in ER nursing.
 * 🌍 I'm based in Seattle, WA.
 * :lotus_position: :coffee: :runner: :ramen: :books: are some of my hobbies.
-* My current personal project is [GenomicsLab](https://github.com/gracehoober/genomics_lab). :science:
+* My current personal project is [GenomicsLab](https://github.com/gracehoober/genomics_lab). :microscope:
 --------------------
 ## Social
 <p><a href="https://www.linkedin.com/in/grace-hoober/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
